@@ -1,10 +1,14 @@
 {
   "name": "js-float-calculation",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Js precision floating point calculation",
   "main": "index.js",
   "author": {
-    "name": "ron.chi"
+    "name": "ronchi"
+  },
+  "respository" : {
+    "type" :"git",
+    "url" :"https://github.com/bannerchi/js-float-math"
   },
   "scripts": {
     "mocha": "node node_modules/.bin/mocha test/**/*.js -R spec",
