@@ -11,13 +11,13 @@ Js precision floating point calculation
 ```
 var jspfpc = require("js-float-calculation");
  
-var f1 = 1.0;
-var f2 = 2.0;
+var f1 = 1.01;
+var f2 = 2.02;
 
 var f3 = f1.add(f2);
 
 console.log(f3);
  
- //3.0
+ //3.03
  
 ```
