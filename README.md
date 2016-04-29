@@ -1,5 +1,6 @@
 # js-float-calculation
 [![Build Status](https://travis-ci.org/bannerchi/js-float-math.svg?branch=master)](https://travis-ci.org/bannerchi/js-float-math)
+
 Js precision floating point calculation
 
 #Useage
