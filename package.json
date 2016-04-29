@@ -1,6 +1,6 @@
 {
   "name": "js-float-calculation",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Js precision floating point calculation",
   "keywords" : "javascript floating calculation bug, js accurate floating point calculation, js accurate calculate",
   "main": "index.js",
