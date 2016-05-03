@@ -1,6 +1,6 @@
 {
   "name": "js-float-calculation",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Js precision floating point calculation",
   "keywords" : "javascript floating calculation bug, js accurate floating point calculation, js accurate calculate",
   "main": "index.js",
@@ -8,10 +8,7 @@
     "name": "ronchi"
   },
   "license": "MIT",
-  "respository" : {
-    "type" :"git",
-    "url" :"git@github.com:bannerchi/js-float-math.git"
-  },
+  "repository" : "git://github.com/bannerchi/js-float-math.git",
   "scripts": {
     "mocha": "node node_modules/.bin/mocha test/**/*.js -R spec",
     "test": "npm run mocha"
