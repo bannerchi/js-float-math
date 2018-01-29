@@ -5,11 +5,11 @@
 
 Js precision floating point calculation
 
-#Useage
+# Useage
 
-##1. install <br>
+## 1. install <br>
 `npm i js-float-calculation -S`
-##2. 
+## 2. 
 ```
 var jspfpc = require("js-float-calculation");
  
